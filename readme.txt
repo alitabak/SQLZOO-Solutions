@@ -1,0 +1,1 @@
+This folder is aimed to provide solutions for the challanges posted on https://sqlzoo.net/
